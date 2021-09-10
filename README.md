@@ -1,6 +1,6 @@
 # Likelihood-Based Diverse Sampling for Trajectory Forecasting
 
-This is the official repository for ICCV 2021 paper [Likelihood-Based Diverse Sampling for Trajectory Forecasting](https://arxiv.org/abs/2107.06106). 
+This is the official repository for ICCV 2021 paper [Likelihood-Based Diverse Sampling for Trajectory Forecasting](https://arxiv.org/abs/2011.15084). 
 
 LDS is a simple training objective to diversify the predictions of a pre-trained Normalizing Flow or VAE-based forecasting models. In this repository,
 we provide a lightweight example implementing LDS on a toy forecasting task (similar to Figure 1 in the paper). 
